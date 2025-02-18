@@ -1,0 +1,13 @@
+- app
+    - app/globals.css
+    - app/layout.tsx
+    - app/page.tsx
+- components
+  - components.json
+- hooks
+    - hooks/use-toast.ts
+- lib
+    - lib/utils.ts
+  - next.config.js
+  - package.json
+  - tailwind.config.ts

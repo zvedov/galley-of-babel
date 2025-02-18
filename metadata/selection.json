@@ -1,0 +1,29 @@
+{
+  ".bolt": false,
+  ".eslintrc.json": false,
+  ".gitignore": false,
+  ".next": false,
+  "app": {
+    "globals.css": true,
+    "layout.tsx": true,
+    "page.tsx": true
+  },
+  "components": {
+    "ui": false
+  },
+  "components.json": true,
+  "hooks": {
+    "use-toast.ts": true
+  },
+  "lib": {
+    "utils.ts": true
+  },
+  "next-env.d.ts": false,
+  "next.config.js": true,
+  "node_modules": false,
+  "package-lock.json": false,
+  "package.json": true,
+  "postcss.config.js": false,
+  "tailwind.config.ts": true,
+  "tsconfig.json": false
+}
